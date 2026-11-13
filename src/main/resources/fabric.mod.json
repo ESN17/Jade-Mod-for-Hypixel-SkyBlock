@@ -1,0 +1,7 @@
+{
+  "schemaVersion":1, "id":"jade_skyblock_music", "version":"${ver}",
+  "name":"Jade SkyBlock Music", "environment":"client",
+  "description":"Loop local music by Hypixel SkyBlock location.",
+  "entrypoints":{"client":["dev.jade.Jade"]}, "mixins":["jade-music.mixins.json"],
+  "depends":{"fabricloader":">=0.19.5","fabric-api":">=${api}","minecraft":"=${mc}","java":">=25"}
+}

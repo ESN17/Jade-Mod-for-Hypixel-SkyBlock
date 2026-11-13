@@ -1,0 +1,87 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version "${loom_version}"
+}
+
+def mc = providers.gradleProperty('mc').getOrElse('26.3')
+def api = ['26.3':'0.165.0+26.3', '26.2':'0.161.0+26.2', '26.1.2':'0.155.3+26.1.2'][mc]
+if (!api) throw new GradleException("Unsupported Minecraft version: $mc")
+version = "1.0.0+mc${mc}"
+group = 'dev.jade'
+layout.buildDirectory.set(file("build/${mc}"))
+sourceSets.main.java.srcDir(mc == '26.1.2' ? 'src/legacy/java' : 'src/modern/java')
+sourceSets.main.java.srcDir(mc == '26.3' ? 'src/sdl/java' : 'src/tinyfd/java')
+repositories { flatDir { dirs 'libs' } }
+dependencies {
+    ['org.jflac:jflac-codec:1.5.2','com.googlecode.soundlibs:mp3spi:1.9.5.4',
+     'com.googlecode.soundlibs:jlayer:1.0.1.4','com.googlecode.soundlibs:tritonus-share:0.3.7.4'].each { codec ->
+        implementation codec
+        include codec
+    }
+    minecraft "com.mojang:minecraft:$mc"
+    implementation 'net.fabricmc:fabric-loader:0.19.5'
+    implementation "net.fabricmc.fabric-api:fabric-api:$api"
+}
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.named('jar') {
+    // Do not ship recordings left in the resource output by older Gradle builds.
+    exclude 'jade-defaults/*.mp3', 'jade-defaults/*.flac', 'jade-defaults/*.ogg', 'jade-defaults/*.wav', 'jade-defaults/*.au', 'jade-defaults/*.wave', 'jade-defaults/*.aif', 'jade-defaults/*.aiff', 'jade-library/**', 'jade-demo.wav', 'MUSIC-CREDITS.txt', 'dev/jade/Library.class'
+}
+def musicDir = file('默认曲库')
+def hashes = layout.buildDirectory.file('music-index/files.json')
+def musicIndex = tasks.register('musicIndex') {
+    inputs.dir musicDir
+    outputs.file hashes
+    doLast {
+        def parser = new groovy.json.JsonSlurper()
+        def names = (parser.parse(new File(musicDir,'islands.json'), 'UTF-8').values() +
+                     parser.parse(new File(musicDir,'tracks.json'), 'UTF-8').values()).toSorted().unique()
+        def index = [:]
+        names.each { name ->
+            def source = new File(musicDir,name)
+            def digest = java.security.MessageDigest.getInstance('SHA-256')
+            source.withInputStream { stream ->
+                new java.security.DigestInputStream(stream,digest).transferTo(OutputStream.nullOutputStream())
+            }
+            index[name] = [sha256:digest.digest().encodeHex().toString(), bytes:source.length()]
+        }
+        def dest = hashes.get().asFile
+        dest.parentFile.mkdirs()
+        dest.setText(groovy.json.JsonOutput.prettyPrint(groovy.json.JsonOutput.toJson(index)), 'UTF-8')
+    }
+}
+tasks.register('jadeSite', Sync) {
+    dependsOn musicIndex
+    into layout.buildDirectory.dir('jade-site')
+    from(hashes)
+    from(musicDir) { include 'Wesnoth-*.txt' }
+    from(musicDir) {
+        into 'audio'
+        include '*.mp3','*.flac','*.ogg','*.wav','*.aif','*.aiff','*.au','*.wave'
+        def index
+        eachFile { entry ->
+            if (index == null) index = new groovy.json.JsonSlurper().parse(hashes.get().asFile,'UTF-8')
+            def asset = index[entry.name]
+            if (asset == null) entry.exclude()
+            else entry.name = asset.sha256
+        }
+    }
+}
+processResources {
+    from('默认曲库') {
+        into 'jade-defaults'
+        include 'files.json', 'islands.json', 'tracks.json', 'Wesnoth-*.txt'
+    }
+    inputs.properties(mc:mc, ver:project.version, api:api)
+    filesMatching('fabric.mod.json') { expand(mc:mc, ver:project.version, api:api) }
+}
+
+if (providers.gradleProperty('smoke').isPresent()) {
+    layout.buildDirectory.set(file("build/smoke-classes/${mc}"))
+    sourceSets.main.java.srcDir('src/smoke/java')
+    sourceSets.main.resources.srcDir('src/smoke/resources')
+    processResources.filesMatching('fabric.mod.json') {
+        filter { line -> line.replace('"dev.jade.Jade"', '"dev.jade.Jade","dev.jade.ClientSmoke"') }
+    }
+    loom.runs.client { runDir = "build/smoke-run/downloads/${mc}" }
+}

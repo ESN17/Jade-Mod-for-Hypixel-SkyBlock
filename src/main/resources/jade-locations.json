@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "\"Your\" Island",
+    "name": "\"Your\" Island",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Abandoned Quarry",
+    "name": "Abandoned Quarry",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Abiphones & Co.",
+    "name": "Abiphones & Co.",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Ancient Ruins",
+    "name": "Ancient Ruins",
+    "region": "Galatea"
+  },
+  {
+    "id": "Ant's Cave",
+    "name": "Ant's Cave",
+    "region": "Galatea"
+  },
+  {
+    "id": "Arachne's Burrow",
+    "name": "Arachne's Burrow",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Arachne's Sanctuary",
+    "name": "Arachne's Sanctuary",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Archaeological Site",
+    "name": "Archaeological Site",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Archaeologist's Camp",
+    "name": "Archaeologist's Camp",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Archery Range",
+    "name": "Archery Range",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Aristocrat Passage",
+    "name": "Aristocrat Passage",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Around Colosseum",
+    "name": "Around Colosseum",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Artist's Abode",
+    "name": "Artist's Abode",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Auction House",
+    "name": "Auction House",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Aura's Lab",
+    "name": "Aura's Lab",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Backwater Bayou",
+    "name": "Backwater Bayou",
+    "region": "Ship Navigator"
+  },
+  {
+    "id": "Bank",
+    "name": "Bank",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Barbarian Outpost",
+    "name": "Barbarian Outpost",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Barracks of Heroes",
+    "name": "Barracks of Heroes",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Barrier Street",
+    "name": "Barrier Street",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Barry Center",
+    "name": "Barry Center",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Barry HQ",
+    "name": "Barry HQ",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Barter Bank Show",
+    "name": "Barter Bank Show",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Bazaar Alley",
+    "name": "Bazaar Alley",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Belly of the Beast",
+    "name": "Belly of the Beast",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Birch Park",
+    "name": "Birch Park",
+    "region": "The Park"
+  },
+  {
+    "id": "Black Lagoon",
+    "name": "Black Lagoon",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Blacksmith (Zone)",
+    "name": "Blacksmith",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Blazing Fortress",
+    "name": "Blazing Fortress",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Blazing Volcano",
+    "name": "Blazing Volcano",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Blood God Shrine",
+    "name": "Blood God Shrine",
+    "region": ""
+  },
+  {
+    "id": "Book in a Book",
+    "name": "Book in a Book",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Broken Cage",
+    "name": "Broken Cage",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Bubbleboost Column",
+    "name": "Bubbleboost Column",
+    "region": "Galatea"
+  },
+  {
+    "id": "Builder's House",
+    "name": "Builder's House",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Burning Desert",
+    "name": "Burning Desert",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "C&C Minecarts Co.",
+    "name": "C&C Minecarts Co.",
+    "region": ""
+  },
+  {
+    "id": "Cake House",
+    "name": "Cake House",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Canvas Room",
+    "name": "Canvas Room",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Carnival",
+    "name": "Carnival",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Catacombs",
+    "name": "Catacombs",
+    "region": "Dungeons"
+  },
+  {
+    "id": "Catacombs Entrance",
+    "name": "Catacombs Entrance",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Catacombs Puzzle Rooms",
+    "name": "Catacombs Puzzle Rooms",
+    "region": ""
+  },
+  {
+    "id": "Cathedral",
+    "name": "Cathedral",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Cerebral Citadel",
+    "name": "Cerebral Citadel",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Chief's Hut",
+    "name": "Chief's Hut",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Cliffside Veins",
+    "name": "Cliffside Veins",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Coal Mine",
+    "name": "Coal Mine",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Colosseum",
+    "name": "Colosseum",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Colosseum (Rift)",
+    "name": "Colosseum",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Combat Settlement",
+    "name": "Combat Settlement",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Communal Stew",
+    "name": "Communal Stew",
+    "region": ""
+  },
+  {
+    "id": "Community Center",
+    "name": "Community Center",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Community Center (Scarleton)",
+    "name": "Community Center",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Continuum",
+    "name": "Continuum",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Courtyard",
+    "name": "Courtyard",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Crimson Fields",
+    "name": "Crimson Fields",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Crimson Isle",
+    "name": "Crimson Isle",
+    "region": ""
+  },
+  {
+    "id": "Critter Safari",
+    "name": "Critter Safari",
+    "region": "Galatea"
+  },
+  {
+    "id": "Critter Safari Entrance",
+    "name": "Critter Safari Entrance",
+    "region": "Galatea"
+  },
+  {
+    "id": "Crypts",
+    "name": "Crypts",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Crystal Hollows",
+    "name": "Crystal Hollows",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Crystal Nucleus",
+    "name": "Crystal Nucleus",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Cult of the Fallen Star",
+    "name": "Cult of the Fallen Star",
+    "region": ""
+  },
+  {
+    "id": "Dark Auction",
+    "name": "Dark Auction",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Dark Thicket",
+    "name": "Dark Thicket",
+    "region": "The Park"
+  },
+  {
+    "id": "Deep Caverns",
+    "name": "Deep Caverns",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Déjà Vu Alley",
+    "name": "Déjà Vu Alley",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Desecrated Shrine",
+    "name": "Desecrated Shrine",
+    "region": ""
+  },
+  {
+    "id": "Desert Mountain",
+    "name": "Desert Mountain",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Desert Settlement",
+    "name": "Desert Settlement",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Desert Temple",
+    "name": "Desert Temple",
+    "region": "Galatea"
+  },
+  {
+    "id": "Diamond Reserve",
+    "name": "Diamond Reserve",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Divan's Gateway",
+    "name": "Divan's Gateway",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Dive-Ember Pass",
+    "name": "Dive-Ember Pass",
+    "region": "Galatea"
+  },
+  {
+    "id": "Dojo",
+    "name": "Dojo",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dolphin Trainer",
+    "name": "Dolphin Trainer",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Dragon's Lair (Crystal Hollows)",
+    "name": "Dragon's Lair",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Dragon's Lair (Galatea)",
+    "name": "Dragon's Lair",
+    "region": "Galatea"
+  },
+  {
+    "id": "Dragon's Nest",
+    "name": "Dragon's Nest",
+    "region": "The End"
+  },
+  {
+    "id": "Dragontail",
+    "name": "Dragontail",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dragontail Auction House",
+    "name": "Dragontail Auction House",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dragontail Bank",
+    "name": "Dragontail Bank",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dragontail Bazaar",
+    "name": "Dragontail Bazaar",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dragontail Blacksmith",
+    "name": "Dragontail Blacksmith",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dragontail Townsquare",
+    "name": "Dragontail Townsquare",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Dreadfarm",
+    "name": "Dreadfarm",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Driptoad Delve",
+    "name": "Driptoad Delve",
+    "region": "Galatea"
+  },
+  {
+    "id": "Driptoad Pass",
+    "name": "Driptoad Pass",
+    "region": "Galatea"
+  },
+  {
+    "id": "Drowned Reliquary",
+    "name": "Drowned Reliquary",
+    "region": "Galatea"
+  },
+  {
+    "id": "Dungeon Hub",
+    "name": "Dungeon Hub",
+    "region": "Dungeons"
+  },
+  {
+    "id": "Dungeons",
+    "name": "Dungeons",
+    "region": ""
+  },
+  {
+    "id": "Dwarven Base Camp",
+    "name": "Dwarven Base Camp",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Dwarven Mines",
+    "name": "Dwarven Mines",
+    "region": ""
+  },
+  {
+    "id": "Dwarven Tavern",
+    "name": "Dwarven Tavern",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Dwarven Village",
+    "name": "Dwarven Village",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Einary's Emporium",
+    "name": "Einary's Emporium",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Election Room",
+    "name": "Election Room",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Empty Bank",
+    "name": "Empty Bank",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Enigma's Crib",
+    "name": "Enigma's Crib",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Event Square",
+    "name": "Event Square",
+    "region": ""
+  },
+  {
+    "id": "Event Stand",
+    "name": "Event Stand",
+    "region": ""
+  },
+  {
+    "id": "Evergreen Plateau",
+    "name": "Evergreen Plateau",
+    "region": "Galatea"
+  },
+  {
+    "id": "Fairy Grotto",
+    "name": "Fairy Grotto",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Fairylosophy Tower",
+    "name": "Fairylosophy Tower",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Far Reserve",
+    "name": "Far Reserve",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Farm",
+    "name": "Farm",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Farmhouse",
+    "name": "Farmhouse",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Fashion Shop",
+    "name": "Fashion Shop",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Fisherman's Hut",
+    "name": "Fisherman's Hut",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Fishing Outpost",
+    "name": "Fishing Outpost",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Floating Islands",
+    "name": "Floating Islands",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Flower House",
+    "name": "Flower House",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Foraging Camp",
+    "name": "Foraging Camp",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Forest",
+    "name": "Forest",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Forest Temple",
+    "name": "Forest Temple",
+    "region": "Galatea"
+  },
+  {
+    "id": "Forge Basin",
+    "name": "Forge Basin",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Forgotten Skull",
+    "name": "Forgotten Skull",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Fossil Research Center",
+    "name": "Fossil Research Center",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Fusion House",
+    "name": "Fusion House",
+    "region": "Galatea"
+  },
+  {
+    "id": "Galatea",
+    "name": "Galatea",
+    "region": ""
+  },
+  {
+    "id": "Gary's Shack",
+    "name": "Gary's Shack",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Gates to the Mines",
+    "name": "Gates to the Mines",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Glacial Cave",
+    "name": "Glacial Cave",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Glacite Mineshafts",
+    "name": "Glacite Mineshafts",
+    "region": ""
+  },
+  {
+    "id": "Glacite Tunnels",
+    "name": "Glacite Tunnels",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Glowing Mushroom Cave",
+    "name": "Glowing Mushroom Cave",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Goblin Burrows",
+    "name": "Goblin Burrows",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Goblin Holdout",
+    "name": "Goblin Holdout",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Goblin Queen's Den",
+    "name": "Goblin Queen's Den",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Gold Mine",
+    "name": "Gold Mine",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Golden Dante Statue",
+    "name": "Golden Dante Statue",
+    "region": ""
+  },
+  {
+    "id": "Grand Library",
+    "name": "Grand Library",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Grandma's House",
+    "name": "Grandma's House",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Grandpa Wolf's Cave",
+    "name": "Grandpa Wolf's Cave",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Gravel Mines",
+    "name": "Gravel Mines",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Graveyard",
+    "name": "Graveyard",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Great Beanstalk",
+    "name": "Great Beanstalk",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Great Glacite Lake",
+    "name": "Great Glacite Lake",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Great Ice Wall",
+    "name": "Great Ice Wall",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Gunpowder Mines",
+    "name": "Gunpowder Mines",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Half-Eaten Cave",
+    "name": "Half-Eaten Cave",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Hanging Court",
+    "name": "Hanging Court",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Hexatorum",
+    "name": "Hexatorum",
+    "region": ""
+  },
+  {
+    "id": "Hot Springs",
+    "name": "Hot Springs",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Hotspot Haven",
+    "name": "Hotspot Haven",
+    "region": "Galatea"
+  },
+  {
+    "id": "Howling Cave",
+    "name": "Howling Cave",
+    "region": "The Park"
+  },
+  {
+    "id": "Hub",
+    "name": "Hub",
+    "region": ""
+  },
+  {
+    "id": "Hub Island",
+    "name": "Hub Island",
+    "region": ""
+  },
+  {
+    "id": "Hub Villagers",
+    "name": "Hub Villagers",
+    "region": ""
+  },
+  {
+    "id": "Hub Well",
+    "name": "Hub Well",
+    "region": ""
+  },
+  {
+    "id": "Igrupan's Chicken Coop",
+    "name": "Igrupan's Chicken Coop",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Igrupan's House",
+    "name": "Igrupan's House",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Infested House",
+    "name": "Infested House",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Ironman's Guild",
+    "name": "Ironman's Guild",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Jake's House",
+    "name": "Jake's House",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Jerry Pond",
+    "name": "Jerry Pond",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Jerry's Workshop",
+    "name": "Jerry's Workshop",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Jungle",
+    "name": "Jungle",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Jungle Island",
+    "name": "Jungle Island",
+    "region": "The Park"
+  },
+  {
+    "id": "Jungle Temple",
+    "name": "Jungle Temple",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Kelpwoven Tunnels",
+    "name": "Kelpwoven Tunnels",
+    "region": "Galatea"
+  },
+  {
+    "id": "Khazad-dûm",
+    "name": "Khazad-dûm",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Kuudra's End",
+    "name": "Kuudra's End",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Kuudra's Hollow",
+    "name": "Kuudra's Hollow",
+    "region": "Dungeons"
+  },
+  {
+    "id": "Lagoon Cave",
+    "name": "Lagoon Cave",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Lagoon Hut",
+    "name": "Lagoon Hut",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Lapis Quarry",
+    "name": "Lapis Quarry",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Lava Springs",
+    "name": "Lava Springs",
+    "region": ""
+  },
+  {
+    "id": "Leeches Lair",
+    "name": "Leeches Lair",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Library",
+    "name": "Library",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Living Cave",
+    "name": "Living Cave",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Living Stillness",
+    "name": "Living Stillness",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Lonely Island",
+    "name": "Lonely Island",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Lonely Terrace",
+    "name": "Lonely Terrace",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Lost Precursor City",
+    "name": "Lost Precursor City",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Lotus Atoll",
+    "name": "Lotus Atoll",
+    "region": "Ship Navigator"
+  },
+  {
+    "id": "Lotus Eater's Cave",
+    "name": "Lotus Eater's Cave",
+    "region": "Ship Navigator"
+  },
+  {
+    "id": "Lotus Highlands",
+    "name": "Lotus Highlands",
+    "region": "Ship Navigator"
+  },
+  {
+    "id": "Lunarise",
+    "name": "Lunarise",
+    "region": ""
+  },
+  {
+    "id": "Mage Council",
+    "name": "Mage Council",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Mage Outpost",
+    "name": "Mage Outpost",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Magma Chamber",
+    "name": "Magma Chamber",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Magma Fields",
+    "name": "Magma Fields",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Matriarch's Lair",
+    "name": "Matriarch's Lair",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Melody's Plateau",
+    "name": "Melody's Plateau",
+    "region": "The Park"
+  },
+  {
+    "id": "Michael's Crib",
+    "name": "Michael's Crib",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Mines of Divan",
+    "name": "Mines of Divan",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Mining District",
+    "name": "Mining District",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Minion Shop",
+    "name": "Minion Shop",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Miria's Hut",
+    "name": "Miria's Hut",
+    "region": "Galatea"
+  },
+  {
+    "id": "Mirrorverse",
+    "name": "Mirrorverse",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Mithril Deposits",
+    "name": "Mithril Deposits",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Moonglade Marsh",
+    "name": "Moonglade Marsh",
+    "region": "Galatea"
+  },
+  {
+    "id": "Moonglade's Edge",
+    "name": "Moonglade's Edge",
+    "region": "Galatea"
+  },
+  {
+    "id": "Mount Jerry",
+    "name": "Mount Jerry",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Mountain",
+    "name": "Mountain",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Murder House",
+    "name": "Murder House",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Murkwater Depths",
+    "name": "Murkwater Depths",
+    "region": "Galatea"
+  },
+  {
+    "id": "Murkwater Loch",
+    "name": "Murkwater Loch",
+    "region": "Galatea"
+  },
+  {
+    "id": "Murkwater Outpost",
+    "name": "Murkwater Outpost",
+    "region": "Galatea"
+  },
+  {
+    "id": "Murkwater Shallows",
+    "name": "Murkwater Shallows",
+    "region": "Galatea"
+  },
+  {
+    "id": "Museum",
+    "name": "Museum",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Mushroom Desert",
+    "name": "Mushroom Desert",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Mushroom Gorge",
+    "name": "Mushroom Gorge",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Mystic Marsh",
+    "name": "Mystic Marsh",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "North Reaches",
+    "name": "North Reaches",
+    "region": "Galatea"
+  },
+  {
+    "id": "North Wetlands",
+    "name": "North Wetlands",
+    "region": "Galatea"
+  },
+  {
+    "id": "Oasis",
+    "name": "Oasis",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Obsidian Sanctuary",
+    "name": "Obsidian Sanctuary",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Odger's Hut",
+    "name": "Odger's Hut",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Official Buildings",
+    "name": "Official Buildings",
+    "region": ""
+  },
+  {
+    "id": "Operation Mayhem",
+    "name": "Operation Mayhem",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Otherside",
+    "name": "Otherside",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Oubliette",
+    "name": "Oubliette",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Overgrown Mushroom Cave",
+    "name": "Overgrown Mushroom Cave",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Palace Bridge",
+    "name": "Palace Bridge",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Pale Citadel",
+    "name": "Pale Citadel",
+    "region": ""
+  },
+  {
+    "id": "Pangolin Hideaway",
+    "name": "Pangolin Hideaway",
+    "region": "Galatea"
+  },
+  {
+    "id": "Personal Vault",
+    "name": "Personal Vault",
+    "region": ""
+  },
+  {
+    "id": "Pet Care",
+    "name": "Pet Care",
+    "region": ""
+  },
+  {
+    "id": "Photon Pathway",
+    "name": "Photon Pathway",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Pigmen's Den",
+    "name": "Pigmen's Den",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Plhlegblast Pool",
+    "name": "Plhlegblast Pool",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Precursor Remnants",
+    "name": "Precursor Remnants",
+    "region": "Crystal Hollows"
+  },
+  {
+    "id": "Prison of the Bereft",
+    "name": "Prison of the Bereft",
+    "region": ""
+  },
+  {
+    "id": "Private Island",
+    "name": "Private Island",
+    "region": "Private Locations"
+  },
+  {
+    "id": "Pumpgrotto",
+    "name": "Pumpgrotto",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Rabbit House",
+    "name": "Rabbit House",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Rampart's Quarry",
+    "name": "Rampart's Quarry",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Red House",
+    "name": "Red House",
+    "region": "Galatea"
+  },
+  {
+    "id": "Reefguard Pass",
+    "name": "Reefguard Pass",
+    "region": "Galatea"
+  },
+  {
+    "id": "Reflective Pond",
+    "name": "Reflective Pond",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Regalia Room",
+    "name": "Regalia Room",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Rift Dimension",
+    "name": "Rift Dimension",
+    "region": ""
+  },
+  {
+    "id": "Rift Gallery",
+    "name": "Rift Gallery",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Rift Gallery Entrance",
+    "name": "Rift Gallery Entrance",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Rose's End",
+    "name": "Rose's End",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Royal Mines",
+    "name": "Royal Mines",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Royal Palace",
+    "name": "Royal Palace",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Royal Quarters",
+    "name": "Royal Quarters",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Ruins",
+    "name": "Ruins",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Ruins of Ashfang",
+    "name": "Ruins of Ashfang",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Savanna Woodland",
+    "name": "Savanna Woodland",
+    "region": "The Park"
+  },
+  {
+    "id": "Scarleton",
+    "name": "Scarleton",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Auction House",
+    "name": "Scarleton Auction House",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Bank",
+    "name": "Scarleton Bank",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Bazaar",
+    "name": "Scarleton Bazaar",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Blacksmith",
+    "name": "Scarleton Blacksmith",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Minion Shop",
+    "name": "Scarleton Minion Shop",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Scarleton Plaza",
+    "name": "Scarleton Plaza",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Security Hall",
+    "name": "Security Hall",
+    "region": ""
+  },
+  {
+    "id": "Sewer",
+    "name": "Sewer",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Shen's Auction",
+    "name": "Shen's Auction",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Shepherd's Keep",
+    "name": "Shepherd's Keep",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Sherry's Showroom",
+    "name": "Sherry's Showroom",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Shifted Tavern",
+    "name": "Shifted Tavern",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Shops",
+    "name": "Shops",
+    "region": ""
+  },
+  {
+    "id": "Side-Ember Way",
+    "name": "Side-Ember Way",
+    "region": "Galatea"
+  },
+  {
+    "id": "Slimehill",
+    "name": "Slimehill",
+    "region": "Gold Mine and Deep Caverns"
+  },
+  {
+    "id": "Smoldering Tomb",
+    "name": "Smoldering Tomb",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Snowball Fight Cave",
+    "name": "Snowball Fight Cave",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Soul Cave",
+    "name": "Soul Cave",
+    "region": "The Park"
+  },
+  {
+    "id": "South Reaches",
+    "name": "South Reaches",
+    "region": "Galatea"
+  },
+  {
+    "id": "South Wetlands",
+    "name": "South Wetlands",
+    "region": "Galatea"
+  },
+  {
+    "id": "Spider Mound",
+    "name": "Spider Mound",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Spider's Den",
+    "name": "Spider's Den",
+    "region": "Spider's Den"
+  },
+  {
+    "id": "Spirit Cave",
+    "name": "Spirit Cave",
+    "region": "The Park"
+  },
+  {
+    "id": "Spring Depths",
+    "name": "Spring Depths",
+    "region": "Galatea"
+  },
+  {
+    "id": "Spring Path",
+    "name": "Spring Path",
+    "region": "Galatea"
+  },
+  {
+    "id": "Spring Shallows",
+    "name": "Spring Shallows",
+    "region": "Galatea"
+  },
+  {
+    "id": "Spruce Woods",
+    "name": "Spruce Woods",
+    "region": "The Park"
+  },
+  {
+    "id": "Squid Cave",
+    "name": "Squid Cave",
+    "region": "Galatea"
+  },
+  {
+    "id": "Stillgore Château",
+    "name": "Stillgore Château",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Stride-Ember Fissure",
+    "name": "Stride-Ember Fissure",
+    "region": "Galatea"
+  },
+  {
+    "id": "Stronghold",
+    "name": "Stronghold",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Sunken Jerry Pond",
+    "name": "Sunken Jerry Pond",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "SwampCut Inc.",
+    "name": "SwampCut Inc.",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tangleburg",
+    "name": "Tangleburg",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tangleburg Bank",
+    "name": "Tangleburg Bank",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tangleburg Library",
+    "name": "Tangleburg Library",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tangleburg's Path",
+    "name": "Tangleburg's Path",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tavern",
+    "name": "Tavern",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Taylor's",
+    "name": "Taylor's",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Taylor's Shop",
+    "name": "Taylor's Shop",
+    "region": ""
+  },
+  {
+    "id": "Terry's Shack",
+    "name": "Terry's Shack",
+    "region": "Jerry's Workshop"
+  },
+  {
+    "id": "Tewtil Tunnel",
+    "name": "Tewtil Tunnel",
+    "region": "Ship Navigator"
+  },
+  {
+    "id": "Thaumaturgist",
+    "name": "Thaumaturgist",
+    "region": "Hub Island"
+  },
+  {
+    "id": "The Barn",
+    "name": "The Barn",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "The Bastion",
+    "name": "The Bastion",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "The Bastion (Rift)",
+    "name": "The Bastion",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "The Dukedom",
+    "name": "The Dukedom",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "The End",
+    "name": "The End",
+    "region": "The End"
+  },
+  {
+    "id": "The Forge",
+    "name": "The Forge",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "The Garden",
+    "name": "The Garden",
+    "region": "Private Locations"
+  },
+  {
+    "id": "The Lift",
+    "name": "The Lift",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "The Mist",
+    "name": "The Mist",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "The Mountaintop",
+    "name": "The Mountaintop",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "The Observatory",
+    "name": "The Observatory",
+    "region": ""
+  },
+  {
+    "id": "The Park",
+    "name": "The Park",
+    "region": ""
+  },
+  {
+    "id": "The People's Voting",
+    "name": "The People's Voting",
+    "region": ""
+  },
+  {
+    "id": "The Vents",
+    "name": "The Vents",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "The Wasteland",
+    "name": "The Wasteland",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Throne Room",
+    "name": "Throne Room",
+    "region": "Crimson Isle"
+  },
+  {
+    "id": "Time Chamber",
+    "name": "Time Chamber",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Time-Torn Isles",
+    "name": "Time-Torn Isles",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Tomb Floodway",
+    "name": "Tomb Floodway",
+    "region": "Galatea"
+  },
+  {
+    "id": "Torrhus Canyon",
+    "name": "Torrhus Canyon",
+    "region": "Galatea"
+  },
+  {
+    "id": "Torrhus Heights",
+    "name": "Torrhus Heights",
+    "region": "Galatea"
+  },
+  {
+    "id": "Torrhus Springs",
+    "name": "Torrhus Springs",
+    "region": "Galatea"
+  },
+  {
+    "id": "Trade Center",
+    "name": "Trade Center",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Tranquil Pass",
+    "name": "Tranquil Pass",
+    "region": "Galatea"
+  },
+  {
+    "id": "Tranquility Sanctum",
+    "name": "Tranquility Sanctum",
+    "region": "Galatea"
+  },
+  {
+    "id": "Trapper's Den",
+    "name": "Trapper's Den",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Treasure Chest",
+    "name": "Treasure Chest",
+    "region": ""
+  },
+  {
+    "id": "Trial Grounds",
+    "name": "Trial Grounds",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Trials of Fire",
+    "name": "Trials of Fire",
+    "region": "The Park"
+  },
+  {
+    "id": "Underground Lab",
+    "name": "Underground Lab",
+    "region": ""
+  },
+  {
+    "id": "Unincorporated",
+    "name": "Unincorporated",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Upper Mines",
+    "name": "Upper Mines",
+    "region": "Dwarven Mines"
+  },
+  {
+    "id": "Verdant Summit",
+    "name": "Verdant Summit",
+    "region": "Galatea"
+  },
+  {
+    "id": "Viking Longhouse",
+    "name": "Viking Longhouse",
+    "region": "The Park"
+  },
+  {
+    "id": "Village",
+    "name": "Village",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Village Plaza",
+    "name": "Village Plaza",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Void Sepulture",
+    "name": "Void Sepulture",
+    "region": "The End"
+  },
+  {
+    "id": "Void Slate",
+    "name": "Void Slate",
+    "region": "The End"
+  },
+  {
+    "id": "Walk of Fame",
+    "name": "Walk of Fame",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Weaponsmith (Zone)",
+    "name": "Weaponsmith",
+    "region": "Removed Locations"
+  },
+  {
+    "id": "Weather Station",
+    "name": "Weather Station",
+    "region": "Hub Island"
+  },
+  {
+    "id": "West Reaches",
+    "name": "West Reaches",
+    "region": "Galatea"
+  },
+  {
+    "id": "West Village",
+    "name": "West Village",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Westbound Wetlands",
+    "name": "Westbound Wetlands",
+    "region": "Galatea"
+  },
+  {
+    "id": "Wilderness",
+    "name": "Wilderness",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Windmill",
+    "name": "Windmill",
+    "region": "The Farming Islands"
+  },
+  {
+    "id": "Wizard Brawl",
+    "name": "Wizard Brawl",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Wizard Tower",
+    "name": "Wizard Tower",
+    "region": "Hub Island"
+  },
+  {
+    "id": "Wizard Tower (Rift)",
+    "name": "Wizard Tower",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Wizardman Bureau",
+    "name": "Wizardman Bureau",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Woods Race",
+    "name": "Woods Race",
+    "region": ""
+  },
+  {
+    "id": "Wyld Woods",
+    "name": "Wyld Woods",
+    "region": "Rift Dimension"
+  },
+  {
+    "id": "Wyrmgrove Tomb",
+    "name": "Wyrmgrove Tomb",
+    "region": "Galatea"
+  },
+  {
+    "id": "Zealot Bruiser Hideout",
+    "name": "Zealot Bruiser Hideout",
+    "region": "The End"
+  }
+]

@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+*.log
+backups/
+releases/
+默认曲库/*
+!默认曲库/*.json
+!默认曲库/Wesnoth-*.txt
+

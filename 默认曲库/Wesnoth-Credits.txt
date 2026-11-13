@@ -1,0 +1,9 @@
+The Battle for Wesnoth, release 1.18.5. Unmodified Ogg Vorbis recordings.
+Into the Shadows (into_the_shadows.ogg) - Tyler Johnson
+Battle Epic (battle-epic.ogg) - Doug Kaufman
+The Deep Path (the_deep_path.ogg) - Gianmarco Leone
+Suspense (suspense.ogg) - Ryan Reilly
+These four recordings are licensed under the GNU General Public License, version 2 or later.
+License: Wesnoth-COPYING.txt
+Upstream files: https://github.com/wesnoth/wesnoth/tree/1.18.5/data/core/music
+Upstream credits: https://github.com/wesnoth/wesnoth/blob/1.18.5/copyrights.csv
