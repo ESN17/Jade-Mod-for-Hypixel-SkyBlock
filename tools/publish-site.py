@@ -69,7 +69,7 @@ with open("/www/sapphire-deploy/jade.lock", "a") as lock:
     package = library/(edition+".zip")
     if not package.exists():
         tmp = stage/(edition+".zip")
-        with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1) as archive:
+        with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED) as archive:
             for name, data in sorted(index.items()):
                 if Path(name).name != name or not re.fullmatch("[a-f0-9]{64}", data["sha256"]):
                     sys.exit("Invalid music index")
